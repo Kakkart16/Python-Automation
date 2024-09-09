@@ -1,0 +1,8 @@
+env
+
+assets
+Output
+
+*.jpg
+*.png
+*.jpeg
